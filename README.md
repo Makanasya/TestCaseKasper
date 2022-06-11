@@ -7,7 +7,7 @@
 На данный момент работает в автономном режиме т.к. в файле program.cs задан путь до проверяемых файлов @"C:\Audit\TestFolder"
 
 Вывод программы на тестовыых данных
-<img src="https://github.com/Makanasya/TestCaseKasper/edit/master/Out.png">
+<img src="https://github.com/Makanasya/TestCaseKasper/Out.png">
 
 ## Технология:
 Приложение Содержит классы:<br>
